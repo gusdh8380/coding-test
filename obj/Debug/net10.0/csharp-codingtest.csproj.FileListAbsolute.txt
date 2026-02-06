@@ -1,0 +1,14 @@
+/Users/jeonhyeono/PJ/Coding Test/csharp-codingtest/bin/Debug/net10.0/csharp-codingtest
+/Users/jeonhyeono/PJ/Coding Test/csharp-codingtest/bin/Debug/net10.0/csharp-codingtest.deps.json
+/Users/jeonhyeono/PJ/Coding Test/csharp-codingtest/bin/Debug/net10.0/csharp-codingtest.runtimeconfig.json
+/Users/jeonhyeono/PJ/Coding Test/csharp-codingtest/bin/Debug/net10.0/csharp-codingtest.dll
+/Users/jeonhyeono/PJ/Coding Test/csharp-codingtest/bin/Debug/net10.0/csharp-codingtest.pdb
+/Users/jeonhyeono/PJ/Coding Test/csharp-codingtest/obj/Debug/net10.0/csharp-codingtest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeonhyeono/PJ/Coding Test/csharp-codingtest/obj/Debug/net10.0/csharp-codingtest.AssemblyInfoInputs.cache
+/Users/jeonhyeono/PJ/Coding Test/csharp-codingtest/obj/Debug/net10.0/csharp-codingtest.AssemblyInfo.cs
+/Users/jeonhyeono/PJ/Coding Test/csharp-codingtest/obj/Debug/net10.0/csharp-codingtest.csproj.CoreCompileInputs.cache
+/Users/jeonhyeono/PJ/Coding Test/csharp-codingtest/obj/Debug/net10.0/csharp-codingtest.dll
+/Users/jeonhyeono/PJ/Coding Test/csharp-codingtest/obj/Debug/net10.0/refint/csharp-codingtest.dll
+/Users/jeonhyeono/PJ/Coding Test/csharp-codingtest/obj/Debug/net10.0/csharp-codingtest.pdb
+/Users/jeonhyeono/PJ/Coding Test/csharp-codingtest/obj/Debug/net10.0/csharp-codingtest.genruntimeconfig.cache
+/Users/jeonhyeono/PJ/Coding Test/csharp-codingtest/obj/Debug/net10.0/ref/csharp-codingtest.dll
