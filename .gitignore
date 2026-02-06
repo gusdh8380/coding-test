@@ -1,20 +1,36 @@
-.idea
-/bin
-/obj
-*.exe
-*.dll
-*.pdb
-*.cache
-*.class
-*.jar
-*.war
-*.iml
-*.ipr
-*.iws
+# Build outputs
+bin/
+obj/
+
+# Visual Studio / Rider / VS Code
+.vs/
+.idea/
+.vscode/
 *.user
+*.userosscache
 *.suo
+*.userprefs
+*.rsuser
+*.sln.docstates
+*.DotSettings.user
+Folder.DotSettings.user
+
+# OS / tooling
+.DS_Store
+Thumbs.db
+
+# Logs
 *.log
-*.vs
-*.DS_Store
+
+# Test results
+TestResults/
+
+# NuGet
+*.nupkg
+packages/
+
+# Artifacts
 *.cache
-*.cs
+*.pdb
+*.dll
+*.exe
